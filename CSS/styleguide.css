@@ -1,0 +1,63 @@
+:root { 
+  --black: #000000;
+  --electric-violet: #8f2ce5;
+  --selago: #f0f2fe;
+  --shampoo: #fcd0f4;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 128px;
+ 
+  --font-family-abeezee: "ABeeZee", Helvetica;
+}
+.abeezee-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-electric-violet-36px {
+  color: var(--electric-violet);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-shampoo-24px {
+  color: var(--shampoo);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

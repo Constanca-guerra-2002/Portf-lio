@@ -1,0 +1,140 @@
+/* screen - pagina-inicial */
+
+.pagina-inicial {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.pagina-inicial .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  margin-left: -79px;
+  min-width: 1622px;
+  padding: 32px 406px;
+}
+
+.pagina-inicial .pgina-inicial {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.pagina-inicial .sobre-mim {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 97px;
+  margin-top: 1px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.pagina-inicial .projetos {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 57px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.pagina-inicial .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/imagem-gradiante-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 732px;
+  padding: 103px 0;
+  width: 1440px;
+}
+
+.pagina-inicial .o-meu-portflio {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 113px;
+  min-height: 149px;
+  text-align: center;
+  width: 982px;
+}
+
+.pagina-inicial .constana-guerra {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 26px;
+  min-height: 149px;
+  text-align: center;
+  width: 982px;
+}
+
+.pagina-inicial .todas-as-artes-cont {
+  color: #616e8f;
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 26px;
+  min-height: 63px;
+  text-align: center;
+  width: 897px;
+}
+
+.pagina-inicial .overlap-group2 {
+  height: 153px;
+  margin-left: -89px;
+  position: relative;
+  width: 1658px;
+}
+
+.pagina-inicial .rectangle-2 {
+  background-color: var(--black);
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1658px;
+}
+
+.pagina-inicial .contacto-915625676 {
+  left: 281px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 222px;
+}
+
+.pagina-inicial .instagram-aminhaarte {
+  left: 1095px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 281px;
+}
+
+.pagina-inicial .e-mail-constancague {
+  left: 540px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 538px;
+}

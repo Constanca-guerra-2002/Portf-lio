@@ -1,0 +1,693 @@
+/* screen - projetos */
+
+.projetos {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 7189px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.projetos .overlap-group7 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  margin-left: -103px;
+  min-width: 1613px;
+  padding: 32px 373px;
+}
+
+.projetos .pgina-inicial {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.projetos .sobre-mim {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 97px;
+  margin-top: 1px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.projetos .projetos-1 {
+  letter-spacing: 0;
+  margin-left: 57px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.projetos .overlap-group11 {
+  align-items: flex-end;
+  background-image: url(../img/imagem-gradiante@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 438px;
+  padding: 72px;
+  width: 1440px;
+}
+
+.projetos .title {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 17px;
+  min-height: 149px;
+  text-align: center;
+  width: 1200px;
+}
+
+.projetos .os-projetos-apresent {
+  letter-spacing: 0;
+  margin-top: 53px;
+  min-height: 75px;
+  text-align: center;
+  width: 1295px;
+}
+
+.projetos .overlap-group8 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 608px;
+  margin-right: 1.0px;
+  margin-top: 65px;
+  min-width: 1273px;
+  padding: 53px 59px;
+}
+
+.projetos .flex-col {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 465px;
+  width: 453px;
+}
+
+.projetos .alfabeto-do-quotidiano {
+  letter-spacing: 0;
+  margin-right: 7.0px;
+  min-height: 57px;
+  text-align: center;
+  width: 446px;
+}
+
+.projetos .desenvolvimento-de-a {
+  letter-spacing: 0;
+  margin-left: 9.0px;
+  margin-top: 27px;
+  min-height: 120px;
+  width: 444px;
+}
+
+.projetos .atravs-da-observa {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 9px;
+  min-height: 252px;
+  width: 437px;
+}
+
+.projetos .alfabeto-do-quotidiano-1 {
+  height: 393px;
+  margin-left: 124px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 285px;
+}
+
+.projetos .alfabeto-do-quotidiano-2 {
+  height: 393px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 285px;
+}
+
+.projetos .overlap-group2 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 608px;
+  margin-right: 1.0px;
+  margin-top: 28px;
+  min-width: 1273px;
+  padding: 86px 47px;
+}
+
+.projetos .uma-cadeira-step-by-step-1 {
+  height: 393px;
+  margin-bottom: 1.0px;
+  object-fit: cover;
+  width: 285px;
+}
+
+.projetos .uma-cadeira-step-by-step-2 {
+  height: 393px;
+  margin-bottom: 1.0px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 285px;
+}
+
+.projetos .flex-col-1 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 78px;
+  min-height: 419px;
+  width: 453px;
+}
+
+.projetos .uma-cadeira-step-by-step {
+  letter-spacing: 0;
+  margin-right: 7.0px;
+  min-height: 57px;
+  text-align: center;
+  width: 446px;
+}
+
+.projetos .overlap-group12 {
+  height: 335px;
+  margin-left: 9.0px;
+  margin-top: 27px;
+  position: relative;
+  width: 444px;
+}
+
+.projetos .reflexo-sobre-os-ar {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 444px;
+}
+
+.projetos .escolha-de-um-objeto {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 114px;
+  width: 437px;
+}
+
+.projetos .component-1 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 608px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 28px;
+  min-width: 1273px;
+  padding: 90px 42px;
+}
+
+.projetos .flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 423px;
+  width: 453px;
+}
+
+.projetos .metforas-do-quotidiano {
+  letter-spacing: 0;
+  min-height: 57px;
+  text-align: center;
+  width: 446px;
+}
+
+.projetos .overlap-group {
+  height: 339px;
+  margin-top: 27px;
+  position: relative;
+  width: 453px;
+}
+
+.projetos .a-cognio-e-a-comun {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 444px;
+}
+
+.projetos .neste-projeto-tivemo {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 87px;
+  width: 437px;
+}
+
+.projetos .metforas-do-quotidiano-2 {
+  height: 393px;
+  margin-left: 124px;
+  margin-top: 1.0px;
+  width: 285px;
+}
+
+.projetos .metforas-do-quotidiano-1 {
+  height: 393px;
+  margin-bottom: 1.0px;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 285px;
+}
+
+.projetos .overlap-group5 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 671px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 28px;
+  min-width: 1273px;
+  padding: 0 56px;
+}
+
+.projetos .metfora-e-pensamento-1 {
+  height: 373px;
+  margin-top: 84.0px;
+  object-fit: cover;
+  width: 245px;
+}
+
+.projetos .flex-col-3 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2581px;
+  margin-left: 368px;
+  min-height: 3197px;
+  width: 546px;
+}
+
+.projetos .metforas-e-pensamento-visual {
+  letter-spacing: 0;
+  margin-left: 12.0px;
+  min-height: 106px;
+  text-align: center;
+  width: 446px;
+}
+
+.projetos .overlap-group13 {
+  height: 465px;
+  margin-top: 17px;
+  position: relative;
+  width: 546px;
+}
+
+.projetos .a-capacidade-de-snt {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 546px;
+}
+
+.projetos .para-o-desenvolvimen {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 138px;
+  width: 542px;
+}
+
+.projetos .metfora-e-pensamento-2 {
+  height: 284px;
+  margin-right: 76.0px;
+  margin-top: 2325px;
+  object-fit: cover;
+  width: 256px;
+}
+
+.projetos .overlap-group3 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 567px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-width: 1273px;
+  padding: 31px 34px;
+}
+
+.projetos .flex-col-4 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 486px;
+  width: 592px;
+}
+
+.projetos .pesquisa-contextual-1 {
+  letter-spacing: 0;
+  min-height: 96px;
+  text-align: center;
+  width: 592px;
+}
+
+.projetos .pesquisa-temtica-so {
+  letter-spacing: 0;
+  margin-right: 48.0px;
+  margin-top: 18px;
+  min-height: 120px;
+  width: 444px;
+}
+
+.projetos .trabalho-de-grupo-o {
+  letter-spacing: 0;
+  margin-right: 55.0px;
+  min-height: 252px;
+  width: 437px;
+}
+
+.projetos .pesquisa-contextual {
+  height: 365px;
+  margin-left: 28px;
+  margin-top: 40.0px;
+  object-fit: cover;
+  width: 265px;
+}
+
+.projetos .overlap-group6 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 567px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-width: 1273px;
+  padding: 69px 34px;
+}
+
+.projetos .desenvolvimento-de-uma-marca {
+  height: 285px;
+  margin-top: 28.0px;
+  object-fit: cover;
+  width: 527px;
+}
+
+.projetos .flex-col-5 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 413px;
+  width: 592px;
+}
+
+.projetos .desenvolvimento-de-uma-marca-1 {
+  letter-spacing: 0;
+  min-height: 51px;
+  text-align: center;
+  width: 592px;
+}
+
+.projetos .estabelecimento-das {
+  letter-spacing: 0;
+  margin-top: 41px;
+  min-height: 120px;
+  width: 570px;
+}
+
+.projetos .em-grupo-tivemos-d {
+  letter-spacing: 0;
+  margin-top: 56px;
+  min-height: 145px;
+  width: 570px;
+}
+
+.projetos .flex-row {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 635px;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-width: 1273px;
+  padding: 37px 45px;
+}
+
+.projetos .flex-col-6 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 522px;
+  width: 613px;
+}
+
+.projetos .desenvolvimento-de-produtos {
+  align-self: flex-start;
+  letter-spacing: 0;
+  min-height: 51px;
+  text-align: center;
+  width: 592px;
+}
+
+.projetos .tendo-a-marca-defini {
+  letter-spacing: 0;
+  margin-top: 35px;
+  min-height: 120px;
+  width: 570px;
+}
+
+.projetos .tambm-em-grupo-man {
+  letter-spacing: 0;
+  margin-top: 35px;
+  min-height: 281px;
+  width: 570px;
+}
+
+.projetos .desenvolvimento-de-produtos-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 168px;
+  margin-top: 15.0px;
+  min-height: 496px;
+  width: 355px;
+}
+
+.projetos .desenvolvimento-de-produtos-1 {
+  height: 220px;
+  object-fit: cover;
+  width: 355px;
+}
+
+.projetos .desenvolvimento-de-produtos-2 {
+  height: 236px;
+  margin-top: 40px;
+  object-fit: cover;
+  width: 355px;
+}
+
+.projetos .overlap-group10 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 507px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-width: 1273px;
+  padding: 49px 46px;
+}
+
+.projetos .cover-me {
+  height: 355px;
+  object-fit: cover;
+  width: 350px;
+}
+
+.projetos .over-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 133px;
+  min-height: 402px;
+  width: 613px;
+}
+
+.projetos .cover-me-1 {
+  letter-spacing: 0;
+  min-height: 51px;
+  text-align: center;
+  width: 592px;
+}
+
+.projetos .overlap-group16 {
+  align-self: flex-end;
+  height: 316px;
+  margin-top: 35px;
+  position: relative;
+  width: 570px;
+}
+
+.projetos .o-de-u {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.projetos .neste-projeto-tive {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 60px;
+  width: 570px;
+}
+
+.projetos .overlap-group9 {
+  align-items: center;
+  background-color: var(--selago);
+  display: flex;
+  height: 635px;
+  margin-left: 1.0px;
+  margin-top: 35px;
+  min-width: 1273px;
+  padding: 37px 22px;
+}
+
+.projetos .flex-col-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 476px;
+  width: 614px;
+}
+
+.projetos .mobilirio-urbano {
+  letter-spacing: 0;
+  min-height: 51px;
+  text-align: center;
+  width: 592px;
+}
+
+.projetos .o-de-container {
+  align-self: flex-end;
+  height: 390px;
+  margin-top: 35px;
+  position: relative;
+  width: 573px;
+}
+
+.projetos .desenvolvimento-de-u {
+  left: 3px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.projetos .dentro-desta-temtic {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 109px;
+  width: 570px;
+}
+
+.projetos .mobilirio-urbano-1 {
+  height: 448px;
+  margin-left: 138px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 389px;
+}
+
+.projetos .flex-row-1 {
+  align-items: flex-end;
+  background-color: var(--selago);
+  display: flex;
+  height: 679px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 38px;
+  min-width: 1273px;
+  padding: 67px 24px;
+}
+
+.projetos .abordagem-integrada-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+  min-height: 512px;
+  width: 428px;
+}
+
+.projetos .abordagem-integrada-1 {
+  height: 265px;
+  object-fit: cover;
+  width: 428px;
+}
+
+.projetos .abordagem-integrada-2 {
+  height: 217px;
+  margin-left: 1.0px;
+  margin-top: 30px;
+  object-fit: cover;
+  width: 327px;
+}
+
+.projetos .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 111px;
+  min-height: 484px;
+  width: 570px;
+}
+
+.projetos .uma-abordagem-integrada-ao-design {
+  letter-spacing: 0;
+  min-height: 99px;
+  text-align: center;
+  width: 508px;
+}
+
+.projetos .overlap-group15 {
+  height: 357px;
+  margin-top: 28px;
+  position: relative;
+  width: 570px;
+}
+
+.projetos .em-grupo-tivemos-de {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 101px;
+  width: 570px;
+}

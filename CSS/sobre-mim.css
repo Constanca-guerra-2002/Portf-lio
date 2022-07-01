@@ -1,0 +1,327 @@
+/* screen - sobre-mim */
+
+.sobre-mim {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3290px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.sobre-mim .overlap-group2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  margin-left: -223px;
+  min-width: 1764px;
+  padding: 32px 404px;
+}
+
+.sobre-mim .pgina-inicial {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.sobre-mim .sobre-mim-1 {
+  letter-spacing: 0;
+  margin-left: 97px;
+  margin-top: 1px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.sobre-mim .projetos {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 57px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.sobre-mim .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/imagem-gradiante-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 392px;
+  min-width: 1440px;
+  padding: 0 167px;
+}
+
+.sobre-mim .fotografia-pessoal {
+  height: 272px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.sobre-mim .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 61px;
+  margin-top: 26.0px;
+  min-height: 116px;
+  width: 733px;
+}
+
+.sobre-mim .sobre-mim-2 {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 3px;
+  min-height: 29px;
+  width: 217px;
+}
+
+.sobre-mim .ol-chamo-me-consta {
+  letter-spacing: 0;
+  margin-top: 27px;
+  min-height: 60px;
+  width: 733px;
+}
+
+.sobre-mim .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 524px;
+  margin-left: 5.0px;
+  margin-top: 57px;
+  min-width: 1273px;
+}
+
+.sobre-mim .overlap-group7 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: #cae1ff;
+  display: flex;
+  height: 521px;
+  justify-content: flex-end;
+  min-width: 592px;
+  padding: 62px 70px;
+}
+
+.sobre-mim .dados-pessoais-nome {
+  letter-spacing: 0;
+  min-height: 390px;
+  text-align: center;
+  width: 444px;
+}
+
+.sobre-mim .overlap-group5 {
+  align-items: flex-start;
+  background-color: #cae1ff;
+  display: flex;
+  height: 521px;
+  justify-content: flex-end;
+  margin-left: 89px;
+  min-width: 592px;
+  padding: 72px 68px;
+}
+
+.sobre-mim .interesses-fazer-des {
+  letter-spacing: 0;
+  min-height: 370px;
+  text-align: center;
+  width: 448px;
+}
+
+.sobre-mim .overlap-group4 {
+  align-items: flex-end;
+  background-color: #eee7f9;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 63px;
+  min-height: 565px;
+  padding: 1px 104px;
+  width: 1273px;
+}
+
+.sobre-mim .formao {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  margin-top: 56px;
+  min-height: 79px;
+  text-align: center;
+  width: 475px;
+}
+
+.sobre-mim .x-container {
+  align-items: flex-start;
+  display: flex;
+  height: 390px;
+  margin-top: 38px;
+  min-width: 1025px;
+}
+
+.sobre-mim .formao-acadmica {
+  letter-spacing: 0;
+  min-height: 390px;
+  text-align: center;
+  width: 419px;
+}
+
+.sobre-mim .formao-complementa {
+  letter-spacing: 0;
+  margin-left: 162px;
+  min-height: 328px;
+  text-align: center;
+  width: 444px;
+}
+
+.sobre-mim .overlap-group6 {
+  align-items: flex-end;
+  background-color: #d6b0d7;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 81px;
+  min-height: 608px;
+  padding: 44px 104px;
+  width: 1273px;
+}
+
+.sobre-mim .experincia-profissional {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  margin-top: 13px;
+  min-height: 79px;
+  text-align: center;
+  width: 475px;
+}
+
+.sobre-mim .participao-em-vri {
+  letter-spacing: 0;
+  min-height: 390px;
+  text-align: center;
+  width: 419px;
+}
+
+.sobre-mim .participao-em-vri-1 {
+  letter-spacing: 0;
+  margin-left: 162px;
+  min-height: 328px;
+  text-align: center;
+  width: 444px;
+}
+
+.sobre-mim .overlap-group {
+  height: 608px;
+  margin-left: 24.0px;
+  margin-top: 81px;
+  position: relative;
+  width: 1292px;
+}
+
+.sobre-mim .rectangle-7 {
+  background-color: #ffe4e1;
+  height: 608px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1273px;
+}
+
+.sobre-mim .lingustica-portugu {
+  left: 40px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 184px;
+  width: 337px;
+}
+
+.sobre-mim .office-microsoft-wo {
+  left: 470px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 189px;
+  width: 404px;
+}
+
+.sobre-mim .outros-programas-au {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 405px;
+  width: 404px;
+}
+
+.sobre-mim .adobe-photoshop-n {
+  left: 888px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 184px;
+  width: 404px;
+}
+
+.sobre-mim .competncias {
+  left: 397px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 475px;
+}
+
+.sobre-mim .overlap-group1 {
+  align-self: flex-start;
+  height: 153px;
+  margin-left: -89px;
+  margin-top: 58px;
+  position: relative;
+  width: 1670px;
+}
+
+.sobre-mim .rectangle-2 {
+  background-color: var(--black);
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1670px;
+}
+
+.sobre-mim .contacto-915625676 {
+  left: 281px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 222px;
+}
+
+.sobre-mim .instagram-aminhaarte {
+  left: 1095px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 281px;
+}
+
+.sobre-mim .e-mail-constancague {
+  left: 540px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 538px;
+}
